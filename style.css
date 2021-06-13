@@ -1,0 +1,13 @@
+.bg{background-image: url("bg1.jpg"); 
+background-position: center;
+background-size: cover;
+}
+#mycanvas{
+border-width: 10px;
+border-color: black;
+border-style: groove;
+background-color:ghostwhite;
+}
+button{font-size: medium;}
+span{font-size: medium;}
+input{font-size: medium;}
